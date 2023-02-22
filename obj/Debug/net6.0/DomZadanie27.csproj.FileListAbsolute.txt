@@ -1,0 +1,15 @@
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\bin\Debug\net6.0\DomZadanie27.exe
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\bin\Debug\net6.0\DomZadanie27.deps.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\bin\Debug\net6.0\DomZadanie27.runtimeconfig.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\bin\Debug\net6.0\DomZadanie27.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\bin\Debug\net6.0\DomZadanie27.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.csproj.AssemblyReference.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.AssemblyInfoInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.AssemblyInfo.cs
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.csproj.CoreCompileInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\refint\DomZadanie27.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\DomZadanie27.genruntimeconfig.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 3\DZ\DomZadanie27\obj\Debug\net6.0\ref\DomZadanie27.dll
